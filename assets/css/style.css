@@ -1,0 +1,100 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* Colores */
+
+.bg-green {
+    background-color: #28A745;
+}
+
+.negro {
+    color: #212529;
+}
+
+.gris {
+    color: #707070;
+}
+
+
+/* Navbar */
+
+.logo {
+    width: 86px;
+}
+
+.productos {
+    margin-top: 70px;
+}
+
+
+/* Productos */
+
+.card-title {
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.card-text {
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.direccion {
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.direccion i {
+    font-size: 10px;
+    color: #707070;
+    vertical-align: middle;
+    margin-bottom: 5px;
+}
+
+.precio-chico {
+    color: #707070;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.precio-verde {
+    color: #28A745;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+/* Contacto */
+
+.contacto {
+    font-size: 21px;
+    font-weight: 500;
+}
+
+::placeholder {
+    font-weight: 300;
+    font-size: 17px;
+    color: #707070;
+}
+
+.btn {
+    background-color: #F8F9FA;
+    border-color: #DDDDDD;
+    padding: 10px 35px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+/* Footer */
+
+.logo-footer {
+    width: 80px;
+}
+
+.texto-footer {
+    font-size: 16px;
+    font-weight: 300;
+}
